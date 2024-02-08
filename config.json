@@ -1,0 +1,23 @@
+{
+    "report_url": "https://mssdk-sg.tiktok.com/web/report?msToken=mIOfgcue6jxr-I98jRo21lnaGtCWIa3HsO0C5RfTmPigpBd6flH4FbZEBVUFNaYW0donQ7S2vRn1sTCsy4KSdWrAx4boey-RXxRsw0yW9las-xN2twkp4dCrqdMCiJAGx2WvuTVphxDfPWY=&X-Bogus=DFSzswVuglUlL35KtqDJv09WcBnO",
+    "proxy_scraper": "n",
+    "threads": 200,
+
+    "report_types": {
+        "Violence": "n",
+        "Sexual Abuse": "n",
+        "Animal Abuse": "n",
+        "Criminal Activities": "n",
+        "Hate": "n",
+        "Bullying": "n",
+        "Suicide Or Self-Harm": "n",
+        "Dangerous Content": "n",
+        "Sexual Content": "n",
+        "Porn": "n",
+        "Drugs": "n",
+        "Firearms Or Weapons": "n",
+        "Sharing Personal Info": "n",
+        "Human Exploitation": "n",
+        "Under Age": "n"
+    }
+}
